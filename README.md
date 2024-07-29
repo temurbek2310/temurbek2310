@@ -6,7 +6,7 @@
 <a href="https://t.me/Davay1Uje" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 
 ## 
-<img align="left" alt="GIF" src="https://media4.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" width="500" height="480"/>
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" width="500" height="480"/>
 
 
 ### Technologies & Languages 📚:
