@@ -1,4 +1,4 @@
-# Farkhodoff_me
+# Samatov
 ### Hi there, I'm <a href="https://t.me/useername_copied" target="_blank">Samatov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph  y.gif" width="30px" height="30px">
 
 ### How to reach me: <a href="ghostwire2010@gmail.com">ghostwire2010@gmail.com</a>
