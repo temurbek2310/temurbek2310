@@ -3,7 +3,7 @@
 ---
 
 <div>
-### 👨‍💻: Me:
+# 👨‍💻: Me:
 
 Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30px">
 
@@ -17,6 +17,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA2emdpaGVwZ2x4MWdjbzF0MmxpaGV4cno5dXRzNmVwbnkyYzA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.webp" align="right" width="350px" height="350px">
 </div>
 </div>
+
 ---
 
 ### 📚 Technologies & Languages :
