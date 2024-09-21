@@ -14,7 +14,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 <a href="https://t.me/useername_copied" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 
 <div>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA2emdpaGVwZ2x4MWdjbzF0MmxpaGV4cno5dXRzNmVwbnkyYzA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.webp" align="right" width="100px" height="100px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA2emdpaGVwZ2x4MWdjbzF0MmxpaGV4cno5dXRzNmVwbnkyYzA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.webp" align="right" width="300px" height="300px">
 </div>
 </div>
 ---
