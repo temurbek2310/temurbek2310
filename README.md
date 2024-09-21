@@ -1,15 +1,26 @@
 # Hi there, I'm <a href="https://t.me/useername_copied" target="_blank">Temur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
+---
 
-### How to reach me: <a href="ghostwire2010@gmail.com">ghostwire2010@gmail.com</a>
+### :technologist: Me:
 
-<a href="https://t.me/useername-copied" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
+Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30px">
 
-## 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" width="500" height="480"/>
+---
+
+:mailbox: How to reach me:
+<a href="https://www.instagram.com/_samatov_t" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<a href="https://t.me/useername_copied" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
+
+---
+
+### 📚 Technologies & Languages :
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,css,git,htmx,html,nodejs,ts,npm,theme=dark" />
+</div>
 
 
-### Technologies & Languages 📚:
 ![image](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
