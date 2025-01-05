@@ -9,7 +9,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 ---
 
 :mailbox: How to reach me:
-<a href="https://www.instagram.com/_samatov_t" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<a href="https://www.instagram.com/uspa_jr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://t.me/useername_copied" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 
 <div>
