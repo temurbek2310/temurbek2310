@@ -47,7 +47,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temurbek2310&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Temurbek's Streak](https://streak-stats.demolab.com?user=temurbek2310&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Temurbek's Streak](https://github-readme-streak-stats.herokuapp.com/?user=temurbek2310&theme=blue-green&hide_border=true)](#)
 
 ### GitHub Profile Insights
 
