@@ -21,8 +21,8 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 
 ### 📚 Technologies & Languages :
 
-<div>
-   <img src="https://skillicons.dev/icons?i=js,css,htmx,html,nodejs,ts,nextjs,express,py,mongodb&theme=dark" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=js,css,htmx,html,nodejs,ts,nextjs,express,py,mongodb&theme=dark" />
 </div>
 
 
