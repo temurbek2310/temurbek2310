@@ -12,7 +12,9 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 <a href="https://www.instagram.com/uspa_jr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://t.me/useername_copied" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 
-
+<div>
+<img href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY1dnYyOHlsOTV3bm83NXpjc3FnNnF2eDlwZHNncXZlcTliY3g1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.gif"/>
+</div>
 </div>
 
 ---
