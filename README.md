@@ -41,3 +41,25 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 <div>
   <img src="https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,notion,vscode,sublime,windows,vercel,yarn,npm,postman,powershell,pycharm,netlify,linkedin,stackoverflow,bash&perline=10&theme=dark" />
 </div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+ [![Temurbek's github stats](https://bad-apple-github-readme.vercel.app/api?username=temurbek2310&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=temurbek2310&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Temurbek's current streak](https://streak-stats.demolab.com/?user=temurbek2310&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+
+### GitHub Profile Insights
+
+
+[![Temurbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=temurbek2310&theme=github)](https://github.com/temurbek2310)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Temurbek&color=green)
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
