@@ -13,7 +13,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 <a href="https://t.me/useername_copied" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
 
 <div>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA2emdpaGVwZ2x4MWdjbzF0MmxpaGV4cno5dXRzNmVwbnkyYzA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.webp" align="right" width="350px" height="350px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA2emdpaGVwZ2x4MWdjbzF0MmxpaGV4cno5dXRzNmVwbnkyYzA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.webp" align="right" width="280px" height="280px">
 </div>
 </div>
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 ### 📚 Technologies & Languages :
 
 <div>
-  <img width="300px" src="https://skillicons.dev/icons?i=js,css,htmx,html,nodejs,ts,nextjs,express,py,mongodb,theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,css,htmx,html,nodejs,ts,nextjs,express,py,mongodb,theme=dark" />
 </div>
 
 ---
