@@ -10,7 +10,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 
 :mailbox: How to reach me:
 <a href="https://www.instagram.com/uspa_jr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-<a href="https://t.me/useername_copied" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
+<a href="https://t.me/useername_copied" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 <div>
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA2emdpaGVwZ2x4MWdjbzF0MmxpaGV4cno5dXRzNmVwbnkyYzA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.webp" align="right" width="350px" height="350px">
@@ -24,7 +24,6 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://skillicons.dev/icons?i=js,css,htmx,html,nodejs,ts,nextjs,express,py,mongodb&perline=5&theme=dark" />
 </div>
-
 
 ---
 
@@ -44,21 +43,17 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![Temurbek's github stats](https://bad-apple-github-readme.vercel.app/api?username=temurbek2310&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=temurbek2310&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Temurbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=temurbek2310&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
-[![Temurbek's current streak](https://streak-stats.demolab.com/?user=temurbek2310&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temurbek2310&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-
+[![Temurbek's Streak](https://streak-stats.demolab.com?user=temurbek2310&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ### GitHub Profile Insights
 
-
 [![Temurbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=temurbek2310&theme=github)](https://github.com/temurbek2310)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Temurbek&color=green)
-
+![Profile Views](https://komarev.com/ghpvc/?username=temurbek2310&color=green)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
