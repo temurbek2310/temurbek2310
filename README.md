@@ -38,5 +38,5 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 ### 🛠 Others :
 
 <div>
-  <img src="https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,notion,vscode,sublime,windows,vercel,yarn,npm,instagram,npm,postman,powershell,pycharm,netlify,linkedin,stackoverflow,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,notion,vscode,sublime,windows,vercel,yarn,npm,postman,powershell,pycharm,netlify,linkedin,stackoverflow,bash&theme=dark" />
 </div>
