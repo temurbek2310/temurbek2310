@@ -22,7 +22,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 ### 📚 Technologies & Languages :
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,css,htmx,html,nodejs,ts,npm,theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,css,htmx,html,nodejs,ts,nextjs,npm,express,py,mongodb,theme=dark" />
 </div>
 
 ---
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 ### 🚀 Frameworks & Library 🔝:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,pug,react,sass,vite,gsap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,pug,react,threejs,webpack,sass,vite,gsap&theme=dark" />
 </div>
 
 ---
@@ -38,5 +38,5 @@ Welcome to my GitHub profile! <img src="https://media.tenor.com/itjFesV8_RUAAAAi
 ### 🛠 Others :
 
 <div>
-  <img src="https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,notion,vscode,sublime,windows,vercel,stackoverflow,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,notion,vscode,sublime,windows,vercel,yarn,instagram,npm,postman,powershell,pycharm,netlify,linkedin,stackoverflow,bash&theme=dark" />
 </div>
